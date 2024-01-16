@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Brianna.
+I am Brianna. My hobbies are swimming. 
 
 I am interested in creating fun games and learning to code.
 
