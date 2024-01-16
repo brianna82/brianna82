@@ -4,7 +4,7 @@ I am Brianna.
 
 I am interested in creating fun games and learning to code.
 
-✨
+🍰
 <!--
 **brianna82/brianna82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
